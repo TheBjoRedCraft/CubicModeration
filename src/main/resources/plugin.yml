@@ -1,0 +1,4 @@
+name: CubicModeration
+version: '${version}'
+main: dev.thebjoredcraft.cubicmoderation.CubicModeration
+api-version: '1.20'
